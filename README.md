@@ -55,9 +55,5 @@ The tool will create individual message files in a structured format, preserving
 - Simplified review of communication history
 - Documentation for family mediators or counselors
 
-## License
-
-[License information]
-
 ## Disclaimer
 This tool is not affiliated with, endorsed by, or connected to OurFamilyWizard. It is an independent utility designed to help users manage their exported message data.
