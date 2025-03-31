@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Flask web application to split a multi-message PDF file based on markers.
+Flask web application to split a "Message Report" output from OurFamilyWizard into separate messages.
 
-This application allows users to upload a PDF file containing multiple messages,
-typically marked with a pattern like "Message X of Y". It processes the PDF,
+Assumes the Message Report is in a PDF form and is text readable. This application processes the PDF,
 splits it into individual PDF files (one per message), zips these files,
 and provides the zip archive for download. It uses temporary directories for
 intermediate file storage and cleans them up after processing.
