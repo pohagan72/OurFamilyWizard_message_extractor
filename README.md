@@ -55,10 +55,8 @@ The tool will create individual message files in a structured format, preserving
 - Simplified review of communication history
 - Documentation for family mediators or counselors
 
-## Contributing
-Contributions to improve the OurFamilyWizard Message Extractor are welcome. Please feel free to submit a pull request or open an issue to discuss potential changes or enhancements.
-
 ## License
+
 [License information]
 
 ## Disclaimer
